@@ -154,8 +154,11 @@ params:
           url: https://linkedin.genericnerd.social
           name: Linkedin
         - icon: fab fa-wordpress
-          url: https://tall-paul.co.uk
+          url: https://web.genericnerd.social
           name: Blog
+        - icon: fab fa-youtube
+          url: https://youtube.genericnerd.social
+          name: Youtube
 
 
 
