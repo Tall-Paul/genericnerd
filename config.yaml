@@ -150,12 +150,13 @@ params:
         - icon: fab fa-bluesky
           url: https://bluesky.genericnerd.social
           name: Bluesky
-        - icon: fab fa-wordpress
-          url: https://web.genericnerd.social
-          name: Site
         - icon: fab fa-linkedin
           url: https://linkedin.genericnerd.social
           name: Linkedin
+        - icon: fab fa-wordpress
+          url: https://tall-paul.co.uk
+          name: Blog
+
 
 
   # About
