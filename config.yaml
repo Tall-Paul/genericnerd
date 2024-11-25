@@ -159,6 +159,9 @@ params:
         - icon: fab fa-youtube
           url: https://youtube.genericnerd.social
           name: Youtube
+        - icon: fab fa-goodreads
+          url: https://goodreads.com/genericnerd
+          name: Goodreads
 
 
 
