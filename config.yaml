@@ -131,7 +131,7 @@ params:
     intro: "Hi, my name is"
     title: "Paul."
     subtitle: "I build stuff"
-    content: "I am late diagnosed Neurodivergent (both flavours).  I am a dad of 3.  Sometimes I build things.  I am interested in sustainable engineering, microcontrollers, web apps and other stuff.  I read a lot of sci-fi. You can find me at the links below"
+    content: "I am late diagnosed Neurodivergent (both flavours). I have aphantasia and SDAM. I am a dad of 3.  Sometimes I build things.  I am interested in sustainable engineering, microcontrollers, web apps and other stuff.  I read a lot of sci-fi. You can find me at the links below"
     image: /me.jpg
     bottomImage:
       enable: false
