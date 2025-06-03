@@ -94,12 +94,14 @@ header .navbar.animate {
 #hero h2 {
     font-size: clamp(40px, 8vw, 80px);
     color: var(--primary-color) !important;
+    margin-left: -0.06em;
 }
 
 #hero h3 {
     font-size: clamp(40px, 8vw, 60px);
     /* color: var(--primary-color) !important; */
     opacity: 0.5;
+    margin-left: -0.06em;
 }
 
 #hero p {
