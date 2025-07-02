@@ -12,7 +12,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+Paginate.pagersize: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -76,7 +76,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -131,7 +131,7 @@ params:
     intro: "Hi, my name is"
     title: "Paul."
     subtitle: "I build stuff"
-    content: "I am late diagnosed Neurodivergent (both flavours). I have aphantasia and SDAM. I am a dad of 3.  Sometimes I build things.  I am interested in sustainable engineering, microcontrollers, web apps and other stuff.  I read a lot of sci-fi. You can find me at the links below"
+    content: "I am late diagnosed Neurodivergent (both flavours). I have aphantasia and SDAM. I am a dad of 3 (nearly 4).  Sometimes I build things.  I am interested in sustainable engineering, microcontrollers, web apps and other stuff.  I read a lot of sci-fi. You can find me at the links below"
     image: /me.jpg
     bottomImage:
       enable: false
@@ -150,6 +150,9 @@ params:
         - icon: fab fa-bluesky
           url: https://bluesky.genericnerd.social
           name: Bluesky
+        - icon: fab fa-q
+          url: https://open.qobuz.com/playlist/30497770
+          name: playlist
         - icon: fab fa-linkedin
           url: https://linkedin.genericnerd.social
           name: Linkedin
