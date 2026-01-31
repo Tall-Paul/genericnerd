@@ -131,7 +131,7 @@ params:
     intro: "Hi, my name is"
     title: "Paul."
     subtitle: "I build stuff"
-    content: "I am late diagnosed Neurodivergent (both flavours). I have aphantasia and SDAM. I am a dad of 3 (nearly 4).  Sometimes I build things.  I am interested in sustainable engineering, microcontrollers, web apps and other stuff.  I read a lot of sci-fi. You can find me at the links below"
+    content: "I am late diagnosed Neurodivergent (both flavours). I have aphantasia and SDAM. I am a dad of 4.  Sometimes I build things.  I am interested in sustainable engineering, microcontrollers, web apps and other stuff.  I read a lot of sci-fi. You can find me at the links below"
     image: /me.jpg
     bottomImage:
       enable: false
@@ -145,7 +145,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.genericnerd.social
+          url: https://github.com/Tall-Paul
           name: Github
         - icon: fab fa-bluesky
           url: https://bluesky.genericnerd.social
@@ -154,13 +154,13 @@ params:
           url: https://open.qobuz.com/playlist/30497770
           name: playlist
         - icon: fab fa-linkedin
-          url: https://linkedin.genericnerd.social
+          url: https://www.linkedin.com/in/paulbbuk/
           name: Linkedin
         - icon: fab fa-wordpress
-          url: https://web.genericnerd.social
+          url: https://tall-paul.co.uk/
           name: Blog
         - icon: fab fa-youtube
-          url: https://youtube.genericnerd.social
+          url: https://www.youtube.com/@PaulBerryisTall
           name: Youtube
         - icon: fab fa-goodreads
           url: https://goodreads.com/genericnerd
