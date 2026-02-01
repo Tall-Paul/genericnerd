@@ -144,7 +144,7 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: far fa-suitcase
+        - icon: fas fa-suitcase
           url: /pbbcv.pdf
           name: C.V.
         - icon: fab fa-github
