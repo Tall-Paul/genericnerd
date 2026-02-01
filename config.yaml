@@ -137,9 +137,9 @@ params:
       enable: false
     #roundImage: true # Make hero image circular | default false
     button:
-      enable: false
+      enable: true
       name: "Resume"
-      url: "#"
+      url: "/pbbcv.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -147,9 +147,6 @@ params:
         - icon: fab fa-github
           url: https://github.com/Tall-Paul
           name: Github
-        - icon: fab fa-bluesky
-          url: https://bluesky.genericnerd.social
-          name: Bluesky
         - icon: fab fa-q
           url: https://open.qobuz.com/playlist/30497770
           name: playlist
