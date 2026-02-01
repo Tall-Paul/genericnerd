@@ -144,13 +144,13 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-suitcase
+        - icon: far fa-suitcase
           url: /pbbcv.pdf
           name: C.V.
         - icon: fab fa-github
           url: https://github.com/Tall-Paul
           name: Github
-        - icon: fab fa-q
+        - icon: fas fa-music
           url: https://open.qobuz.com/playlist/30497770
           name: playlist
         - icon: fab fa-linkedin
